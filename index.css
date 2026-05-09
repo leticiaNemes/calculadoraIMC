@@ -1,0 +1,22 @@
+#card{
+    width: 70%;
+    background-color: aquamarine;
+    margin: 0 auto;
+    text-align: center;
+    padding: 25px;
+    border-radius: 15px;
+    box-shadow: 0 -4px 8px rgba(0,0,0,0.7);
+    margin-top: 60px;
+     border-top: 8px solid #4caf50;
+}
+input{
+    text-align: center;
+     border-radius: 15px;
+     margin-top: 15px;
+     padding: 15px;
+}
+#botao{
+    background-color: red;
+    color: aliceblue;
+    font-size: larger;
+}
